@@ -6,8 +6,8 @@ This reporsitory contains the code for our ECIR 2024 paper "[An EcoSage Assistan
 
 An example case is illustrated in the figure below:
 
-<img src="/image/dataset.png" alt="Dataset Example" width="400"/>
-<!-- ![SED Example](/imgs/se-eg4-1.png) -->
+<img src="/image/dataset.png" alt="Dataset Example" width="700"/>
+<!-- ![Dataset Example](/image/dataset.png) -->
 
 
 * **Authors:** Mohit Tomar, Abhisek Tiwari, Tulika Saha, Prince Jha, Sriparna Saha
