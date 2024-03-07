@@ -17,9 +17,9 @@ An example dialogue from our dataset is illustrated in the figure below:
 # Dataset Description
 * Our (**Plantational**) dataset is curated by converting posts from Reddit and Houzz into dialogues.
 * We create a dialogue between the user and the assistant revolving around queries related to plant care.
-* This dataset has the corresponding post link, dialogue between user and assistant, image link (if present), intent, and dialogue acts (DA).
+* This dataset has the corresponding post link, dialogue between user and assistant, image link (if present), intent, and dialogue acts.
 * The intent categories are “Suggestion”, “Conformation”, “Feedback”, and “Awareness”.
-* The DA categories used are “Greeting” (g), “Question” (q), “Answer” (ans), “Statement-Opinion” (o), “Statement Non-Opinion” (s), “Agreement” (ag), “Disagreement” (dag), “Acknowledge” (a) and “Others” (oth).
+* The Dialogue Acts categories used are “Greeting” (g), “Question” (q), “Answer” (ans), “Statement-Opinion” (o), “Statement Non-Opinion” (s), “Agreement” (ag), “Disagreement” (dag), “Acknowledge” (a) and “Others” (oth).
 
 
 If you consider this work to be useful, please cite it as
