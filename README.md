@@ -32,7 +32,7 @@ If you consider this work to be useful, please cite it as
   year={2024}
 }
 ```
-This code has been adapted from the "[MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)" paper. In **MiniGPT-4** we made changes in **minigpt_base.py** to get our code (**ecosage**).
+This code has been adapted from the "[MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)" paper. In **MiniGPT-4** we have made changes in **minigpt_base.py** to get our code (**ecosage**).
 
 # Contact
 
