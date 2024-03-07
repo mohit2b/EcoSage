@@ -6,7 +6,7 @@ This reporsitory contains the code for our ECIR 2024 paper "[An EcoSage Assistan
 
 An example case is illustrated in the figure below:
 
-<img src="/imgage/dataset.png" alt="Dataset Example" width="400"/>
+<img src="/image/dataset.png" alt="Dataset Example" width="400"/>
 <!-- ![SED Example](/imgs/se-eg4-1.png) -->
 
 
