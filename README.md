@@ -26,11 +26,13 @@ Here is the link to our dataset - https://docs.google.com/spreadsheets/d/1wJjnk4
 If you consider this work to be useful, please cite it as
 
 ```bash
-@article{tomar2024ecosage,
+@inproceedings{tomar2024ecosage,
   title={An EcoSage Assistant: Towards Building A Multimodal Plant Care Dialogue Assistant},
   author={Tomar, Mohit and Tiwari, Abhisek and Saha, Tulika and Jha, Prince and Saha, Sriparna},
-  journal={arXiv preprint arXiv:2401.06807},
-  year={2024}
+  booktitle={European Conference on Information Retrieval},
+  pages={318--332},
+  year={2024},
+  organization={Springer}
 }
 ```
 This code has been adapted from the "[MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)" paper. In **MiniGPT-4** we have made changes in **minigpt_base.py** to get our code (**ecosage**).
