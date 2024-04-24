@@ -21,6 +21,7 @@ An example dialogue from our dataset is illustrated in the figure below:
 * The intent categories are “Suggestion”, “Conformation”, “Feedback”, and “Awareness”.
 * The Dialogue Acts categories used are “Greeting” (g), “Question” (q), “Answer” (ans), “Statement-Opinion” (o), “Statement Non-Opinion” (s), “Agreement” (ag), “Disagreement” (dag), “Acknowledge” (a) and “Others” (oth).
 
+Here is the link to our dataset - https://docs.google.com/spreadsheets/d/1wJjnk4WKmtW6nqo8xcblFH-8zmFrhwCY2QkExoNgXjM/edit?usp=sharing
 
 If you consider this work to be useful, please cite it as
 
