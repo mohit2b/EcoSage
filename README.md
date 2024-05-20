@@ -1,6 +1,7 @@
 # An EcoSage Assistant: Towards Building A Multimodal Plant Care Dialogue Assistant
 
-This reporsitory contains the code for our ECIR 2024 paper "[An EcoSage Assistant: Towards Building A Multimodal Plant Care Dialogue Assistant](https://link.springer.com/chapter/10.1007/978-3-031-56060-6_21)" "[Arxiv](https://arxiv.org/abs/2401.06807)", Advances in Information Retrieval, 46th European Conference on Information Retrieval, ECIR 2024. 
+This reporsitory contains the code for our ECIR 2024 paper "[An EcoSage Assistant: Towards Building A Multimodal Plant Care Dialogue Assistant](https://link.springer.com/chapter/10.1007/978-3-031-56060-6_21)", Advances in Information Retrieval, 46th European Conference on Information Retrieval, ECIR 2024. 
+[Arxiv Link](https://arxiv.org/abs/2401.06807)
 
 An example dialogue from our dataset is illustrated in the figure below:
 
